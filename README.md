@@ -9,7 +9,8 @@ The lab simulates a real-world routed network with multiple routers and segmente
 ---
 
 ## 🖥️ Network Topology
-<img width="1045" height="637" alt="Topology" src="https://github.com/user-attachments/assets/31c3f413-4e87-4835-baac-e592e3ef3071" />
+<img width="931" height="648" alt="Topology" src="https://github.com/user-attachments/assets/a5a4fa69-bc39-44a0-ba61-97b864277afe" />
+
 
 
 ## 🌐 Network Design
