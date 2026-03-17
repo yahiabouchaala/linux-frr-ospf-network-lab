@@ -13,14 +13,13 @@ The lab simulates a real-world routed network with multiple routers and segmente
 ---
 
 ## 🌐 Network Design
-|------------------|-----------------------------|
+
 | Network          |              Description    |
 |------------------|-----------------------------|
 | 192.168.10.0/24  | LAN1 (PC1 ↔ R1)             |
 | 10.0.12.0/30     | Point-to-point link R1 ↔ R2 |
 | 10.0.23.0/30     | Point-to-point link R2 ↔ R3 |
 | 192.168.20.0/24  | LAN2 (R3 ↔ PC2)             |
-|------------------|-----------------------------|
 
 ## ⚙️ Technologies Used
 
