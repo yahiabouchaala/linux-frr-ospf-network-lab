@@ -1,0 +1,17 @@
+Building configuration...
+
+Current configuration:
+!
+frr version 10.4.1
+frr defaults traditional
+hostname linuxvm2
+log syslog informational
+hostname R3(Linux+FRR)
+service integrated-vtysh-config
+!
+router ospf
+ network 10.0.23.0/30 area 0
+ network 192.168.20.0/24 area 0
+exit
+!
+end
